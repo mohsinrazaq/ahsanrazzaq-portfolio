@@ -1,6 +1,6 @@
 {
     "title": "ahsanrazzaq-potfolio",
-    "name": "ahsan razzaq",
+    "name": "ahsan-razzaq",
     "version": "5.1.4",
     "scripts": {
         "start": "gulp watch"
