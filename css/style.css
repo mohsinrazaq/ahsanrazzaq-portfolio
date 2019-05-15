@@ -615,7 +615,7 @@ ol {
 }
 
 /*------------------------
-    Contact Page
+    Contact section
 --------------------------*/
 .contect-tect {
   text-align: center;
@@ -623,12 +623,12 @@ ol {
 }
 
 .contect-tect h2 {
-  font-size: 24px;
+  font-size: 26px;
   margin-bottom: 30px;
 }
 
 .contect-tect p {
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .contact-form {
@@ -641,9 +641,14 @@ ol {
   height: 60px;
   width: 100%;
   border: none;
-  border-bottom: 2px solid #000;
-  margin-bottom: 30px;
+  border-bottom: 3px solid #000;
+  margin-bottom: 50px;
   font-size: 22px;
+}
+
+.contact-form input:hover{
+  color: rgba(97, 33, 33, 0.822);
+  border-bottom: 3px solid rgb(139, 44, 44);
 }
 
 .contact-form textarea {
@@ -651,9 +656,14 @@ ol {
   height: 200px;
   width: 100%;
   border: none;
-  border-bottom: 2px solid #000;
+  border-bottom: 3px solid #000;
   margin-bottom: 30px;
   font-size: 22px;
+}
+
+.contact-form textarea:hover{
+  color: rgba(97, 33, 33, 0.822);
+  border-bottom: 3px solid rgb(139, 44, 44);
 }
 
 .contact-form ::-webkit-input-placeholder {
@@ -670,6 +680,11 @@ ol {
 
 .contact-form ::placeholder {
   font-style: italic;
+}
+
+.contact-form button:hover{
+  background-color:red;
+  border-color:red;
 }
 
 
