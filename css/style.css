@@ -17,7 +17,7 @@ h6 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 22px;
   color: #979797;
   line-height: 1.8;
 }
@@ -631,7 +631,7 @@ ol {
   border: none;
   border-bottom: 2px solid #000;
   margin-bottom: 30px;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .contact-form textarea {
@@ -641,7 +641,7 @@ ol {
   border: none;
   border-bottom: 2px solid #000;
   margin-bottom: 30px;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .contact-form ::-webkit-input-placeholder {
