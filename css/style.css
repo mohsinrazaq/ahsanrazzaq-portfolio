@@ -4,6 +4,10 @@ body {
   font-family: 'Josefin Sans', sans-serif;
 }
 
+.margin-class{
+  margin-top: 100px;
+}
+
 h1,
 h2,
 h3,
@@ -743,3 +747,4 @@ ol {
     font-size: 30px;
   }
 }
+
