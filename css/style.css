@@ -695,7 +695,8 @@ ol {
   .body-pad {
     padding: 0 15px;
   }
-  .main-menu {
+
+  /* .main-menu {
     position: absolute;
     background: #efefef;
     width: 100%;
@@ -722,6 +723,9 @@ ol {
   .home-2 .main-menu {
     top: 99px;
   }
+  .main-menu{
+    display: none;
+  }
   .nav-switch {
     position: absolute;
     right: 25px;
@@ -729,10 +733,8 @@ ol {
     color: #333;
     top: 35px;
     display: block;
-  }
-  .header-btn {
-    display: none;
-  }
+  } */
+
   .section-title {
     font-size: 45px;
   }
